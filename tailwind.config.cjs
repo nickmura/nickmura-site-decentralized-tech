@@ -4,7 +4,7 @@ const config = {
   theme: {
     extend: {
       fontFamily: {
-        primary: ['Inter', 'sans-serif'],
+        primary: ['Chelsea Market', 'cursive'],
         secondary: ['Readex Pro', 'sans-serif']
       }
     }

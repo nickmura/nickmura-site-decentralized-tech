@@ -11,7 +11,7 @@
 	class="w-screen p-12 flex flex-col md:flex-row justify-center items-center gap-4 flex-wrap"
 >
 	<a
-		href="https://twitter.com/DecentralisedT"
+		href="https://twitter.com/0xjimmy_eth"
 		class="fill-white w-16 transition duration-300 hover:fill-green-100"
 	>
 		<svg class="w-full" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"

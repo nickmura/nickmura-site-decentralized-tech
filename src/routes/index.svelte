@@ -3,7 +3,7 @@
 		Nick Mura
 	</h1>
 	<p class="mt-8 font-primary font-medium text-3xl bg-clip-text text-white">
-		Software developer/creator building cool shit from Canada
+		software developer/creator from Canada
 	</p>
 </section>
 <section

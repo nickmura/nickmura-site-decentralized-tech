@@ -2,9 +2,7 @@
 	<h1 class="text-indigo-300 mb-0 uppercase font-extrabold text-3xl lg:text-4xl font-secondary">
 		Nick Mura
 	</h1>
-	<p class="mt-8 font-primary font-medium text-3xl bg-clip-text text-white">
-		software developer/creator from Canada
-	</p>
+
 </section>
 <section
 	class="w-screen p-12 flex flex-col md:flex-row justify-center items-center gap-4 flex-wrap"
